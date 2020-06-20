@@ -1,0 +1,7 @@
+*.pdf
+*.dvi
+*.log
+_yatexrc
+*.ps1
+*.docx
+*.html
